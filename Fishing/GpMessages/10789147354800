@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: 2024年4月29日 23:12:24</msg><msg code="0" type="0">Con("input_raster" &gt;= 0.5, 1, 0)</msg><msg code="539" type="100">ERROR 000539: Traceback (most recent call last):
+  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+  File "&lt;string&gt;", line 5, in rcexec_DC684390_0C54_4F14_9EBF_B34DF3F2E1B1
+TypeError: '&gt;=' not supported between instances of 'str' and 'float'
+</msg><msg code="-2147467259" type="100">Failed to execute (RasterCalculator).</msg><msg code="0" type="3">Failed at 2024年4月29日 23:12:24 (Elapsed Time: 0.48 seconds)</msg></messages>
